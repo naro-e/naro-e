@@ -1,8 +1,7 @@
-## Hi there 👋
-#I'm Narouee
+# Hi there 👋 I'm Narouee
 
-💻 **Software Developer** — Back-end 
-🌱 Currently mastering Git and learning the basics of ML
+💻 **Software Developer** — Back-end  
+🌱 Currently mastering Git and learning the basics of ML  
 📫 Reach me at: kahdenaroi@example.com  
 
 
