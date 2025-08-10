@@ -1,4 +1,10 @@
 ## Hi there 👋
+#I'm Narouee
+
+💻 **Software Developer** — Back-end 
+🌱 Currently mastering Git and learning the basics of ML
+📫 Reach me at: kahdenaroi@example.com  
+
 
 <!--
 **naro-e/naro-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
